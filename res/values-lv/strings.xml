@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Kamera</string>
+    <string name="hello">MaclawStudios Kamera - Beta 1</string>
+    <string name="unsupported">Neatbalstīts modelis!</string>
+    <string name="error">Kaut kas nogāja greizi&#8230;</string>
+</resources>
