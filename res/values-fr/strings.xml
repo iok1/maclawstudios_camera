@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Cam&#233;ra</string>
+    <string name="hello">MaclawStudios Cam&#233;ra - Beta 1</string>
+    <string name="unsupported">Mod&#232;le non support&#233;!</string>
+    <string name="error">Quelque chose a mal tourn&#233;&#8230;</string>
+</resources>
