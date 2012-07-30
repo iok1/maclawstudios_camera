@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Kamera</string>
+    <string name="hello">MaclawStudios Kamera - Beta 1</string>
+    <string name="unsupported">Ikke underst&#248;ttet model!</string>
+    <string name="error">Noget gik galt&#8230;</string>
+</resources>
