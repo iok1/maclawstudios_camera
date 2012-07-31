@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Κάμερα</string>
+    <string name="hello">MaclawStudios Κάμερα - Beta 1</string>
+    <string name="unsupported">Μη υποστηριζόμενο μοντέλο!</string>
+    <string name="error">Κάτι πήγε λάθος&#8230;</string>
+</resources>
