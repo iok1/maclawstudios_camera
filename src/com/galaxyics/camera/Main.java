@@ -79,7 +79,7 @@ public class Main extends Activity implements Camera.PreviewCallback, SensorEven
             }
             catch(Exception e) {
                 Log.i(tag,"Failed to start camera HAL, waiting 50ms and retrying...");
-                try { Thread.sleep(50); } catch (InterruptedException f) { }
+                try { Thread.sleep(500); } catch (InterruptedException f) { }
                 caught=true;
             }
             if(!caught) break;

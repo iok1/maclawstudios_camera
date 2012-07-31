@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Fényképezőgép</string>
+    <string name="hello">MaclawStudios fényképezőgép - Beta 1</string>
+    <string name="unsupported">Nem támogatott készülék!</string>
+    <string name="error">Valami hiba történt&#8230;</string>
+</resources>
