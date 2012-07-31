@@ -3,5 +3,5 @@
     <string name="appname">C&#225;mara</string>
     <string name="hello">C&#225;mara MaclawStudios - Beta 1</string>
     <string name="unsupported">Modelo no soportado!</string>
-    <string name="error">Algo a ido mal&#8230;</string>
+    <string name="error">Algo ha ido mal&#8230;</string>
 </resources>
