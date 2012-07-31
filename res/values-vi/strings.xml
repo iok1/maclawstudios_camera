@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Camera</string>
+    <string name="hello">MaclawStudios Camera - Beta 1</string>
+    <string name="unsupported">Phiên bản không hỗ trợ!</string>
+    <string name="error">Có lỗi xảy ra&#8230;</string>
+</resources>
