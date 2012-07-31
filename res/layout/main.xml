@@ -6,15 +6,36 @@
     android:orientation="horizontal" >
 
     <SurfaceView
-        android:id="@+id/preview"
+        android:id="@+id/camera_preview"
         android:layout_width="428px"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+     />
+    
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
 
-    <ImageView
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/button_released"
-        android:onClick="onSnapshot" />
+	    <com.galaxyics.camera.RotateImageView
+	        xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:id="@+id/thumbnail"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:clickable="true"
+	        android:contentDescription="test"
+	        android:focusable="false"
+	         >
+	
+	    </com.galaxyics.camera.RotateImageView>
 
+	    <ImageView
+	        android:id="@+id/shutter_button"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:contentDescription="test2"
+	        android:onClick="onSnapshot"
+	        android:src="@drawable/button_released" />
+
+	</RelativeLayout>
 </LinearLayout>
