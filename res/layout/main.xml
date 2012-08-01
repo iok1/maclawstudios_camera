@@ -24,11 +24,8 @@
 	        android:layout_height="wrap_content"
 	        android:clickable="true"
 	        android:contentDescription="test"
-	        android:focusable="false"
-	         >
-	
-	    </com.galaxyics.camera.RotateImageView>
-
+	        android:focusable="false" />
+			
 	    <ImageView
 	        android:id="@+id/shutter_button"
 	        android:layout_width="wrap_content"
