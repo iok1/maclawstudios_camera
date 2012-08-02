@@ -4,4 +4,18 @@
     <string name="hello">MaclawStudios Camera - Beta 1</string>
     <string name="unsupported">Unsupported model!</string>
     <string name="error">Something went wrong&#8230;</string>
+    <string name="cannot_connect_camera">Cannot connect to camera</string>
+    <string name="dialog_ok">OK</string>
+    <string name="camera_error_title">Error</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">Time lapse recording</string>
+    <string name="accessibility_second_level_indicators">More setting controls</string>
+    <string name="accessibility_back_to_first_level">Close setting controls</string>
+    <string name="accessibility_mode_picker">Camera, video, or panorama selector</string>
+    <string name="accessibility_review_thumbnail">Most recent photo</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">Shutter button</string>
+    <string name="switch_to_camera_label">Switch to camera</string>
+    <string name="switch_to_video_label">Switch to video</string>
+    <string name="switch_to_panorama_label">Switch to panorama</string>
 </resources>
