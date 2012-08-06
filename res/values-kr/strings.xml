@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">카메라</string>
+    <string name="hello">MaclawStudios Camera - Beta 1</string>
+    <string name="unsupported">지원하지 않는 모델입니다!</string>
+    <string name="error">문제가 발생했습니다&#8230;</string>
+    <string name="cannot_connect_camera">카메라와 연결할수 없습니다</string>
+    <string name="dialog_ok">확인</string>
+    <string name="camera_error_title">에러 발생</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">초저속 녹화</string>
+    <string name="accessibility_second_level_indicators">기타 설정</string>
+    <string name="accessibility_back_to_first_level">설정 닫기</string>
+    <string name="accessibility_mode_picker">카메라, 비디오, Panorama중 고르기</string>
+    <string name="accessibility_review_thumbnail">제일 최근의 사진</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">셔터 버튼</string>
+    <string name="switch_to_camera_label">카메라로 바꾸기</string>
+    <string name="switch_to_video_label">비디오로 바꾸기</string>
+    <string name="switch_to_panorama_label">Panorama로 바꾸기</string>
+</resources>
