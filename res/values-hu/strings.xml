@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Kamera</string>
+    <string name="hello">MaclawStudios kamera - Beta 1</string>
+    <string name="unsupported">Nem támogatott készülék!</string>
+    <string name="error">Valami hiba történt&#8230;</string>
+    <string name="cannot_connect_camera">Nem lehet kapcsolodni a kamerához</string>
+    <string name="dialog_ok">OK</string>
+    <string name="camera_error_title">Hiba</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">Lassú felvétel</string>
+    <string name="accessibility_second_level_indicators">További beállítás vezérlők</string>
+    <string name="accessibility_back_to_first_level">Bezárni a beállítás vezérlőt</string>
+    <string name="accessibility_mode_picker">Kamera, videó, vagy panorámakép választó</string>
+    <string name="accessibility_review_thumbnail">Legutóbbi fotók</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">Exponáló gomb</string>
+    <string name="switch_to_camera_label">Váltás kamerára</string>
+    <string name="switch_to_video_label">Váltás videófelvételre</string>
+    <string name="switch_to_panorama_label">Váltás panorámakép készítésre</string>
+</resources>
