@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="appname">Cámara</string>
     <string name="hello">MaclawStudios Cámara - Beta 1</string>
     <string name="unsupported">¡Modelo no soportado!</string>
     <string name="error">Algo fue mal&#8230;</string>
     <string name="cannot_connect_camera">No se puede conectar con la cámara</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">Aceptar</string>
     <string name="camera_error_title">Error</string>
     <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
-    <string name="time_lapse_title">Grabando momento</string>
+    <string name="time_lapse_title">Grabar en secuencias</string>
     <string name="accessibility_second_level_indicators">Más ajustes de control</string>
     <string name="accessibility_back_to_first_level">Cerrar ajustes de control</string>
-    <string name="accessibility_mode_picker">Modo cámara, vídeo o panorama</string>
+    <string name="accessibility_mode_picker">Modo cámara, video o panorama</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
     <string name="empty" translatable="false">" "</string>
     <string name="accessibility_shutter_button">Botón de obturador</string>
     <string name="switch_to_camera_label">Cambiar a cámara</string>
-    <string name="switch_to_video_label">Cambiar a vídeo</string>
+    <string name="switch_to_video_label">Cambiar a video</string>
     <string name="switch_to_panorama_label">Cambiar a panorama</string>
 </resources>
