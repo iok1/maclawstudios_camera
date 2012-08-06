@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Camera</string>
+    <string name="hello">MaclawStudios Camera - Beta 1</string>
+    <string name="unsupported">Model de nesuportată!</string>
+    <string name="error">Ceva nu a funcţionat&#8230;</string>
+    <string name="cannot_connect_camera">Nu se poate conecta la cameră</string>
+    <string name="dialog_ok">OK</string>
+    <string name="camera_error_title">Eroare</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">Înregistrare cu filmare lentă</string>
+    <string name="accessibility_second_level_indicators">Mai multe controale de setări</string>
+    <string name="accessibility_back_to_first_level">Închide controale de setări</string>
+    <string name="accessibility_mode_picker">Selector pentru cameră foto, cameră video sau panoramă</string>
+    <string name="accessibility_review_thumbnail">Cele mai recent fotografii</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">Butonul declanşaţi</string>
+    <string name="switch_to_camera_label">Schimbaţi camera foto</string>
+    <string name="switch_to_video_label">Schimbaţi camera video</string>
+    <string name="switch_to_panorama_label">Schimbaţi panoramă</string>
+</resources>
