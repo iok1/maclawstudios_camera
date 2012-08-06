@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appname">Kamera</string>
+    <string name="hello">Kamera Maclaw Studios - Beta 1</string>
+    <string name="unsupported">Model tidak didukung!</string>
+    <string name="error">Ada sesuatu yang salah&#8230;</string>
+    <string name="cannot_connect_camera">Tidak dapat terhubung ke kamera</string>
+    <string name="dialog_ok">OK</string>
+    <string name="camera_error_title">Terjadi kesalahan</string>
+    <string name="image_file_name_format" translatable="false">"'IMG'_yyyyMMdd_HHmmss"</string>
+    <string name="time_lapse_title">Jeda waktu perekaman</string>
+    <string name="accessibility_second_level_indicators">Pengaturan</string>
+    <string name="accessibility_back_to_first_level">Keluar dari pengaturan</string>
+    <string name="accessibility_mode_picker">Pemilih mode kamera, video, atau panorama</string>
+    <string name="accessibility_review_thumbnail">Foto terbaru</string>
+    <string name="empty" translatable="false">" "</string>
+    <string name="accessibility_shutter_button">Tombol shutter</string>
+    <string name="switch_to_camera_label">Beralih ke mode kamera</string>
+    <string name="switch_to_video_label">Beralih ke mode video</string>
+    <string name="switch_to_panorama_label">Beralih ke mode panorama</string>
+</resources>
