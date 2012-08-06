@@ -3,7 +3,7 @@
   <string name="appname">Camera</string>
   <string name="hello">MaclawStudios Camera - Beta 1</string>
   <string name="unsupported">Modello non supportato!</string>
-  <string name="error">Qualcosa è andato storto...</string>
+  <string name="error">Qualcosa è andato storto&#8230;</string>
   <string name="cannot_connect_camera">Impossibile connettersi alla fotocamera</string>
   <string name="dialog_ok">OK</string>
   <string name="camera_error_title">Errore</string>
